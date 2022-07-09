@@ -2,7 +2,7 @@
 
 by M. Attala R.
 
-This project contains about how malaria can be detected in red blood cells using 4 methods, namely:
+>This project contains about how malaria can be detected in red blood cells using 4 methods, namely:
 
 1. Matching templates
 2. Multiple Matching Templates
