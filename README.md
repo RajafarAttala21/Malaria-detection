@@ -43,7 +43,7 @@ Using libraries:
 
 <img src="Images/Template_Matching/results.png"> </br>
 
-## Thresholding
+### Thresholding
 
 <p align="justify">The simplest thresholding methods replace each pixel in an image with a black pixel if the image intensity is less than a fixed value called the threshold, or a white pixel if the pixel intensity is greater than that threshold. In the example image on the right, this results in the dark tree becoming completely black, and the bright snow becoming completely white.</p>
 
@@ -54,7 +54,7 @@ Using libraries:
 
 <img src="Images/Thresholding/results.png"> </br>
 
-## Total Red Blood Cells
+### Total Red Blood Cells
 
 <p align="justify">Trying to find out how many red blood cells can be recognized through an image</p>
 
